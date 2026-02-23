@@ -10,7 +10,6 @@
  * Email     : githubmainul@gmail.com
  * 
  * ==============================================
- * Original Framework: CYBER BOT COMMUNITY
  * Modified & Maintained by MAINUL - X
  * ==============================================
  * 
